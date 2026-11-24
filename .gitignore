@@ -1,0 +1,12 @@
+# Local input tables and generated results must not be committed.
+data/
+results/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
